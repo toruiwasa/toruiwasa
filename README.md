@@ -2,7 +2,7 @@
 
 Backend / Full-Stack Software Engineer with 6 years of experience building enterprise-grade systems.
 
-Currently based in Sydney, Australia 🇦🇺
+Currently based in Brisbane, Australia 🇦🇺
 
 ## 🛠 Tech Stack
 
