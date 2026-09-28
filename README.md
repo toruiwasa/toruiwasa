@@ -17,7 +17,7 @@ Check out my pinned repos below for examples of API integration, testing, and fu
 
 ## ✍️ Blog
 
-I write about engineering topics at [toruiwasa.com](https://toruiwasa.com), built with SvelteKit.
+I write about engineering topics at [toruiwasa.com](https://toruiwasa.com), built with Astro.
 
 ## 📫 Contact
 
